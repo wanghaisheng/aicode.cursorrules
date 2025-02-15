@@ -1,3 +1,12 @@
+# Turn any ai code assitant to best degree with rules
+
+
+bolt.diy
+
+https://github.com/wanghaisheng/deepseek-ai-coding
+
+
+
 # Transform your $20 Cursor into a Devin-like AI Assistant
 
 This repository gives you everything needed to supercharge your Cursor/Windsurf IDE or GitHub Copilot with **advanced** agentic AI capabilities—similar to the $500/month Devin—but at a fraction of the cost. In under a minute, you'll gain:
